@@ -1,9 +1,3 @@
-num_1 = int(input('num_1 '))
-num_2 = int(input('num_2 '))
-num_3 = int(input('num_3 '))
-print (num_1+num_2+num_3)
-print (num_1*num_2*num_3)
-
 salary = int(input('value '))
 credit = int(input('credit '))
 utilities = int(input('utilities '))
