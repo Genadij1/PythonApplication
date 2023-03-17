@@ -1,2 +1,1 @@
-
-print ('Nothing\nwill work\nunless you do')
+print ('“Anyone who\n\tstops\n\t  learning is old,\n\t\twhether at twenty or eighty”\n\t\t\t\tHenry Ford')
